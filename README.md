@@ -1,30 +1,27 @@
-# Hi, I'm Rum ([@rumyp](https://github.com/rumyp))
+# Rumyp
 
-Neural Network Engineer, Telegram bot developer, and web application developer.
+AI Engineer focused on practical products.
+I build Telegram bots and web applications with an emphasis on reliability, speed, and clean UX.
 
-## About Me
-- Neural networks engineer
-- Telegram bot developer
-- Web application developer
-- Speed typer: [Monkeytype profile](https://monkeytype.com/profile/rumyp)
+## Core Areas
+- AI engineering and applied automation
+- Telegram bot development
+- Web application development
 
-## Hardware
-- GPU: NVIDIA GeForce RTX 5070 Ti
-- CPU: AMD Ryzen 7 7800X3D
-
-## Tech Stack
+## Tech
 - Python
 - JavaScript
 - HTML/CSS
 - Git & GitHub
 
-## Featured Projects
-- [currency](https://github.com/rumyp/currency) - currency converter
-- [tictactoe](https://github.com/rumyp/tictactoe) - tic tac toe game
-- [snakegamebot](https://github.com/rumyp/snakegamebot) - snake game bot
-- [tetris](https://github.com/rumyp/tetris) - tetris game
-- [lucyna-video-host](https://github.com/rumyp/lucyna-video-host) - public video hosting via GitHub Releases
+## Selected Projects
+- [currency](https://github.com/rumyp/currency) - Currency converter
+- [tictactoe](https://github.com/rumyp/tictactoe) - Tic-tac-toe game
+- [snakegamebot](https://github.com/rumyp/snakegamebot) - Snake game bot
+- [tetris](https://github.com/rumyp/tetris) - Tetris game
+- [lucyna-video-host](https://github.com/rumyp/lucyna-video-host) - Public video hosting via GitHub Releases
 
-## Contacts
+## Links
 - Website: [en.rumyp.org](https://en.rumyp.org)
+- Monkeytype: [monkeytype.com/profile/rumyp](https://monkeytype.com/profile/rumyp)
 - Telegram: [@revlms](https://t.me/revlms)

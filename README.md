@@ -19,7 +19,6 @@ I build Telegram bots and web applications with an emphasis on reliability, spee
 - [tictactoe](https://github.com/rumyp/tictactoe) - Tic-tac-toe game
 - [snakegamebot](https://github.com/rumyp/snakegamebot) - Snake game bot
 - [tetris](https://github.com/rumyp/tetris) - Tetris game
-- [lucyna-video-host](https://github.com/rumyp/lucyna-video-host) - Public video hosting via GitHub Releases
 
 ## Links
 - Website: [en.rumyp.org](https://en.rumyp.org)

@@ -19,7 +19,7 @@ I build Telegram bots and web applications with an emphasis on reliability, spee
 - [tictactoe](https://github.com/rumyp/tictactoe) - Tic-tac-toe game
 - [snakegamebot](https://github.com/rumyp/snakegamebot) - Snake game bot
 - [tetris](https://github.com/rumyp/tetris) - Tetris game
-
+- [cards bot](https://github.com/rumyp/cards-bot) - cards telegram bot
 ## Typing
 - Competitive typing enthusiast (Monkeytype)
 

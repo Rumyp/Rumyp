@@ -20,7 +20,8 @@ I build Telegram bots and web applications with an emphasis on reliability, spee
 - [snakegamebot](https://github.com/rumyp/snakegamebot) - Snake game bot
 - [tetris](https://github.com/rumyp/tetris) - Tetris game
 
-## Links
+## Typing`r`n- Competitive typing enthusiast (Monkeytype)`r`n`r`n## Links
 - Website: [en.rumyp.org](https://en.rumyp.org)
 - Monkeytype: [monkeytype.com/profile/rumyp](https://monkeytype.com/profile/rumyp)
 - Telegram: [@revlms](https://t.me/revlms)
+

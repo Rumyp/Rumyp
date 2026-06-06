@@ -10,8 +10,8 @@ i have own website https://rumyp.org
 - AI engineering and applied automation
 - Telegram bot development
 - Web application development
-- 
 
+  
 ## Tech
 - Python
 - JavaScript

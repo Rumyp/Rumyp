@@ -27,7 +27,7 @@ I'm speedtyper (or I just want to be speedtyper), My main OS is Arch Linux with 
 - [sentype](https://github.com/rumyp/sentype) - TUI typing game
 - [revreader](https://github.com/rumyp/sentype) - Very clean TUI/GUI epub reader) 
 ## Typing
-- Competitive typing enthusiast (Monkeytype, sentype(myboy) etc)
+- Competitive typing enthusiast (Monkeytype, sentype, etc)
 
 ## Links
 - Website: [en.rumyp.org](https://rumyp.org)

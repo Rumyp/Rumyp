@@ -2,9 +2,9 @@
 
 AI Engineer focused on practical products.
 I build Telegram bots and web applications with an emphasis on reliability, speed, and clean UX (i love clean and desktop XD)
-I'm speedtyper (or I just want to be speedtyper), My main OS is Arch Linux with Hyprland. I would say I am a philosopher of programming in my own right). And also a i'm writer
+I'm speedtyper (or I just want to be speedtyper), My main OS is Arch Linux with Hyprland. I would say I am a philosopher of programming in my own right)
 
-i have own website https://rumyp.org
+ website https://rumyp.org
 
 ## Core Areas
 - AI engineering and applied automation
